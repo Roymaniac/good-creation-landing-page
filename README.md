@@ -31,3 +31,5 @@ Design credit to [Pomaline Moses Olanrewaju](https://www.figma.com/@primeleonard
 For any further information or inquiries, please contact us via email at [Email Me](mailto:amolojoseph2020@gmail.com).
 
 ## Live Demo
+
+Link to [Live Demo](https://iridescent-pastelito-c06d93.netlify.app/)
